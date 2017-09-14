@@ -1,0 +1,13 @@
+https://data.austintexas.gov/resource/ecmv-9xxi/zip_code            zipCode1           integer
+https://data.austintexas.gov/resource/ecmv-9xxi/address             address1           text
+http://www.w3.org/2000/10/swap/pim/usps#zipCode                     zipCode2           integer
+https://data.austintexas.gov/resource/ecmv-9xxi/score               score              integer
+http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress             address2           text
+http://www.w3.org/2000/10/swap/pim/usps#stateAbbr                   state              text
+https://data.austintexas.gov/resource/ecmv-9xxi/restaurant_name     restaurantName     text
+http://www.w3.org/2003/01/geo/wgs84_pos#long                        longitude          real
+https://data.austintexas.gov/resource/ecmv-9xxi/facility_id         facilityId         integer
+https://data.austintexas.gov/resource/ecmv-9xxi/process_description processDescription text
+https://data.austintexas.gov/resource/ecmv-9xxi/inspection_date     inspectionDate     text
+http://www.w3.org/2000/10/swap/pim/usps#cityName                    city               text
+http://www.w3.org/2003/01/geo/wgs84_pos#lat                         latitude           real
